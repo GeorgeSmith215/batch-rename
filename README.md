@@ -26,7 +26,7 @@ A lightweight, secure, and zero-dependency local GUI utility powered by Python T
 
 If you don't want to run the script via terminal or install Python, you can directly download the fully self-contained executable file:
 
-1. Navigate to the [Releases](https://github.com/your_username/FileRenamer/releases) page of this repository.
+1. Navigate to the [Releases](https://github.com/GeorgeSmith215/batch-rename/releases) page of this repository.
 2. Download the latest version matching your operating system:
    - **Windows**: `FileRenamer.exe`
 3. Double-click the downloaded `FileRenamer.exe` to launch the application instantly. All necessary dependencies and the core runtime are pre-packaged inside.
@@ -36,7 +36,7 @@ If you don't want to run the script via terminal or install Python, you can dire
 ### 🚀 Quick Start (Running from Source)
 
 1. Clone this repository:
-   git clone https://github.com/your_username/FileRenamer.git
+   git clone https://github.com/GeorgeSmith215/batch-rename
    cd FileRenamer
 
 2. Run the application:
@@ -82,7 +82,7 @@ If you don't want to run the script via terminal or install Python, you can dire
 
 如果你不想配置任何代码环境或执行终端命令，可以直接下载已经封装了所有环境和依赖的独立绿色版：
 
-1. 点击进入本仓库的 [Releases](https://github.com/your_username/FileRenamer/releases) 发布页面。
+1. 点击进入本仓库的 [Releases](https://github.com/GeorgeSmith215/batch-rename/releases) 发布页面。
 2. 下载最新版程序：
    - **Windows 系统**：下载 `文件批量替换工具.exe`
 3. 直接双击下载好的 `.exe` 文件即可启动工具，内部已完整集成了所有运行依赖。
@@ -92,7 +92,7 @@ If you don't want to run the script via terminal or install Python, you can dire
 ### 🚀 快速使用 (通过源码运行)
 
 1. 克隆本仓库到本地：
-   git clone https://github.com/your_username/FileRenamer.git
+   git clone https://github.com/GeorgeSmith215/batch-rename
    cd FileRenamer
 
 2. 直接运行源码：
@@ -115,6 +115,14 @@ If you don't want to run the script via terminal or install Python, you can dire
 5. **执行改名**：核对“新文件名”一列无误后，点击底部绿色的 “2. 执行批量替换” 按钮完成处理。
 
 ---
+
+## 📸 Preview / 预览
+
+### English Interface / 英文界面
+![en](./images/en.png)
+
+### Chinese Interface / 中文界面
+![cn](./images/ch.png)
 
 ## 📄 License / 开源协议
 
